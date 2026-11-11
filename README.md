@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="icon-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="icon-light.png">
-  <img src="icon-dark.png" alt="LIVINAS icon" width="90" />
-</picture>
+<img src="app-icon.png" alt="LIVINAS icon" width="90" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
